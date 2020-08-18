@@ -1,13 +1,4 @@
 _idade,_faixa etária,_sexo,_classificacao,_conclusao,_dt_notificacao,_tipo_teste,_distrito,_bairro_mapa
-44,40a - 49a,F,Confirmado,Recuperado,2020-01-30,TESTE RÁPIDO - ANTÍGENO,SUL,SÃO GERALDO
-44,40a - 49a,M,Confirmado,Recuperado,2020-02-16,TESTE RÁPIDO - ANTICORPO,OESTE,PONTA NEGRA
-12,10a - 14a,F,Confirmado,Recuperado,2020-02-23,DESCONHECIDO,LESTE,MAUAZINHO
-43,40a - 49a,F,Confirmado,Recuperado,2020-03-09,RT-PCR,OESTE,DOM PEDRO
-46,40a - 49a,F,Confirmado,Recuperado,2020-03-11,DESCONHECIDO,NORTE,CIDADE NOVA
-39,30a - 39a,F,Confirmado,Recuperado,2020-03-12,DESCONHECIDO,SUL,PARQUE 10 DE NOVEMBRO
-40,40a - 49a,M,Confirmado,Recuperado,2020-03-13,RT-PCR,SUL,FLORES
-30,30a - 39a,M,Confirmado,Recuperado,2020-03-14,RT-PCR,OESTE,REDENÇÃO
-47,40a - 49a,F,Confirmado,Recuperado,2020-03-14,RT-PCR,SUL,PETRÓPOLIS
 9, 5a - 9a,M,Confirmado,Recuperado,2020-03-16,RT-PCR,SUL,PARQUE 10 DE NOVEMBRO
 42,40a - 49a,M,Confirmado,Recuperado,2020-03-16,RT-PCR,OESTE,TARUMÃ
 42,40a - 49a,M,Confirmado,Recuperado,2020-03-16,DESCONHECIDO,OESTE,TARUMÃ
